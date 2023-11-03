@@ -21,7 +21,7 @@ I like to study and learn something new about many things.
 * [Yandex Practicum](https://practicum.yandex.ru/):
     * Git Basics
 ## Code examples:
-```Java Script
+```JavaScript
 const renderCalendar = () => {
   let firstDayOfMonth = new Date(currYear, currMonth, 1).getDay(), // getting first day of month
     lastDateOfMonth = new Date(currYear, currMonth + 1, 0).getDate(), // getting last date of month
