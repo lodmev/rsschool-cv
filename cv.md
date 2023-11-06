@@ -20,9 +20,12 @@ I like to study and learn something new about many things.
    * CSS
 * [Yandex Practicum](https://practicum.yandex.ru/):
     * Git Basics
+## English Language: B1 Intermediate
+## Work Expirience: 
+* Frontend of searching app. Written with React and TypeScript. [Link to source](https://github.com/lodmev/gtbwebui)
 ## Code examples:
 ```JavaScript
-const renderCalendar = () => {
+const calendarRenderer = () => {
   let firstDayOfMonth = new Date(currYear, currMonth, 1).getDay(), // getting first day of month
     lastDateOfMonth = new Date(currYear, currMonth + 1, 0).getDate(), // getting last date of month
     lastDayOfMonth = new Date(currYear, currMonth, lastDateOfMonth).getDay(), // getting last day of month
