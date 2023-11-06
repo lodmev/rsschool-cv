@@ -1,4 +1,5 @@
 # Dmitriy Lovyagin
+![photo](assets/photo@0,1x.jpg)
 ### Junior Frontend Developer
 ## Contact information:
 * E-mail: lodmev@gmail.com
